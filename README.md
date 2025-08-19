@@ -1,3 +1,5 @@
+#Online Retail Analysis
+
 
 ## 📚 What I Learned
 
@@ -23,6 +25,7 @@
 
 ![Monthly Revenue](visuals/monthly_revenue.png)
 ![Top Products](visuals/top_products.png)
+![Revunue by Country](visuals/revunue_By_Country.png)
 
 ---
 
